@@ -42,7 +42,6 @@
 		2E628BFF25F75BA400CBFD22 = {
 			isa = PBXGroup;
 			children = (
-				2E69CF8525F9AD1400AA5040 /* .gitignore */,
 				2E628C0A25F75BA400CBFD22 /* Chapter02-inputForm */,
 				2E628C0925F75BA400CBFD22 /* Products */,
 			);
@@ -59,6 +58,7 @@
 		2E628C0A25F75BA400CBFD22 /* Chapter02-inputForm */ = {
 			isa = PBXGroup;
 			children = (
+				2E69CF8525F9AD1400AA5040 /* .gitignore */,
 				2E628C0B25F75BA400CBFD22 /* AppDelegate.swift */,
 				2E628C0D25F75BA400CBFD22 /* SceneDelegate.swift */,
 				2E628C0F25F75BA400CBFD22 /* ViewController.swift */,
