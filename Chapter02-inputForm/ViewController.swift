@@ -33,7 +33,8 @@ class ViewController: UIViewController {
         lblinterval.text = "Interval"
         lblinterval.font = UIFont.systemFont(ofSize: 14)
         self.view.addSubview(lblinterval)
-
+        
+        print("hi!")
     }
 
 
